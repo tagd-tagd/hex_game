@@ -2,6 +2,8 @@
 
 TUI/CLI variant of 2048 game by Gabriele Cirulli
 
+![](https://github.com/tagd-tagd/hex_game/blob/main/hex_screen.png)
+
 ~~~
 ./hex.sh [huc]
 -h help
