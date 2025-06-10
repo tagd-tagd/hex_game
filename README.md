@@ -2,6 +2,8 @@
 
 TUI/CLI variant of 2048 game by Gabriele Cirulli
 
+The best game for prod :-)
+
 ![](https://github.com/tagd-tagd/hex_game/blob/main/hex_screen.png)
 
 ~~~
