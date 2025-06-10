@@ -1,5 +1,6 @@
 # hex_game
-variant of 2048 game by Gabriele Cirulli
+
+TUI/CLI variant of 2048 game by Gabriele Cirulli
 
 ~~~
 ./hex.sh [huc]
@@ -15,3 +16,12 @@ s - save game
 l - load saved game
 q - quit (for restore game press 'u' after start)
 ~~~
+## USAGE ##
+download hex.sh
+chmod +x ./hex.sh
+./hex.sh
+
+## Dependencies ##
+
+bash, readlink, stty, tput
+
