@@ -21,9 +21,12 @@ l - load saved game
 q - quit (for restore game press 'u' after start)
 ~~~
 ## USAGE ##
-download hex.sh
+
+```bash
+wget https://github.com/tagd-tagd/hex_game/raw/refs/heads/main/hex.sh
 chmod +x ./hex.sh
 ./hex.sh
+```
 
 ## Dependencies ##
 
